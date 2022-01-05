@@ -1,0 +1,9 @@
+{
+  "name": "flightrisk",
+  "version": "1.0.0",
+  "description": "surface warning signs that someone is about to resign",
+  "main": "index.js",
+  "repository": "https://github.com/achristmascarl/flightrisk.git",
+  "author": "achristmascarl <carl.z.liu@gmail.com>",
+  "license": "MIT"
+}
